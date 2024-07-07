@@ -1,0 +1,9 @@
+url: http://101.43.118.152/#/login
+users:
+  will:
+    username: test
+    password: test123
+
+  tom:
+    username: admin
+    password: 12345678
